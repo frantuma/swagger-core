@@ -1,5 +1,7 @@
 # Swagger Core <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" height="50" align="right">
 
+test
+
 **NOTE:** If you're looking for Swagger Core 1.5.X and OpenAPI 2.0, please refer to [1.5 branch](https://github.com/swagger-api/swagger-core/tree/1.5).
 
 [![Build Status](https://jenkins.swagger.io/view/OSS%20-%20Java/job/oss-swagger-core-master-java-8/badge/icon?subject=jenkins%20build%20-%20java%208)](https://jenkins.swagger.io/view/OSS%20-%20Java/job/oss-swagger-core-master-java-8/)
